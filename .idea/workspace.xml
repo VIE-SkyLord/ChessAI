@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b60bfec-eabf-4ba4-bd62-1fce0a4dc0fb" name="Changes" comment="part 1&amp;2">
-      <change afterPath="$PROJECT_DIR$/Chess/SmartMoveFinder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/SmartMoveFinder1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chess/ChessEngine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chess/ChessEngine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chess/ChessMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chess/ChessMain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chess/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chess/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="9b60bfec-eabf-4ba4-bd62-1fce0a4dc0fb" name="Changes" comment="part 1&amp;2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703634979492</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="part 1&amp;2">
+      <option name="closed" value="true" />
+      <created>1704292050002</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704292050002</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
