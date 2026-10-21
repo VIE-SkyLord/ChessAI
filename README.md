@@ -1,1 +1,1 @@
-# ChessAI
+# ChessAI - PvE - Android OS
